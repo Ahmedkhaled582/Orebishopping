@@ -1,9 +1,12 @@
 # 🛍️ Orebishopping — Modern E-Commerce Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://ahmedkhaled582.github.io/Orebishopping/)
 [![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![Redux](https://img.shields.io/badge/Redux_Toolkit-%23764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+
+## 🚀 Live Demo
+🔗 https://ahmedkhaled582.github.io/Orebishopping/
 
 A scalable and responsive E-Commerce web application built using modern React architecture.
 Focused on delivering a smooth shopping experience, clean UI, and efficient state management.
@@ -69,7 +72,7 @@ src/
 git clone https://github.com/your-username/orebishopping.git
 cd orebishopping
 npm install
-npm start
+npm run dev
 
 ## 🎯 What I Focused On
 
@@ -88,6 +91,6 @@ npm start
 
 ## 👨‍💻 Author
 
-Ahmed Khaled
-Portfolio: https://ahmedkhaled582.github.io/Portfolio/
-LinkedIn: https://linkedin.com/in/ahmedkhaled582
+Ahmed Khaled  
+Portfolio: https://ahmedkhaled582.github.io/Portfolio/  
+LinkedIn: https://linkedin.com/in/ahmedkhaled582  
