@@ -64,7 +64,7 @@ src/
 git clone https://github.com/your-username/orebishopping.git  
 cd orebishopping  
 npm install  
-npm run dev  
+npm start  
 
 ## 🎯 What I Focused On
 
