@@ -85,4 +85,4 @@ npm start
 
 Ahmed Khaled  
 Portfolio: https://ahmedkhaled582.github.io/Portfolio/  
-LinkedIn: https://linkedin.com/in/ahmedkhaled582  
+LinkedIn: https://www.linkedin.com/in/ahmed-khaled-yahia 
